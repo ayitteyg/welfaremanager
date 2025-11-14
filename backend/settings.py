@@ -89,7 +89,6 @@ INSTALLED_APPS = [
     'corsheaders',
     'django_filters',
      'import_export',
-     'django_extensions',
      'welfare'
 ]
 
